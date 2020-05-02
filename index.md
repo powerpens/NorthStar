@@ -2,15 +2,8 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html>
-<html lang="en">
 
-<head>
-  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
 
-<body>
 <style>
 .lead {text-align:center;
 }
@@ -25,5 +18,4 @@ layout: default
 <h3>Amex Credit Cards</h3>
 
 
-</body>
-</html>
+
