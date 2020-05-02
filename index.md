@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <style>
 .lead {text-align:center;
 }
