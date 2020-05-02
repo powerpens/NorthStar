@@ -1,15 +1,8 @@
+---
+layout: default
+---
 
-
-    <div class="div-header">
-    <h1 class="branding"><a href="../index.html">NorthStar™</a></h1>
-    <h5 class="tagline"><em>
-			AMEX Learning Roadmap and Navigator</em></h5>
-	</div>
-<hr></hr>
-<div class="div-content">        
-<!-- CONTENT  -->        
-	
-        <h2 class="title">Credit Cards Refresher</h2>
+<h2 class="title">Credit Cards Refresher</h2>
         <h5 class="date"> <em>
 			Updated: 23 April 2020</em>
         </h5>
@@ -64,4 +57,3 @@ alt="credit card - front">
 			<p><a href="../index.html">internal link</a></p>
 			<p><a href="https//:powerpens.xyz"><externsl links<a/></p>
 		
-</div>        
