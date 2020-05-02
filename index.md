@@ -2,6 +2,10 @@
 layout: default
 ---
 
-# <em>hislo</em> World!
+<h1>Pathways™</h1>
 
-<h1> Test</h1>
+
+<h3>Credit cards refresher</h3>
+
+<h3>Amex Credit Cards</h3>
+
