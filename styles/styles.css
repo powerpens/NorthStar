@@ -1,0 +1,72 @@
+/* 
+alt font:  Lato, Railway
+other colors: #8ae9e1
+
+*/
+
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: white; /*** #95B8C7 ***/
+	margin: 0;
+	}
+
+h1,h2,h3,h4,h5 {
+	margin: 0;
+	padding: 0
+	}
+	
+summary {
+	margin:0;
+	}
+
+hr {
+    margin: 0;
+}
+
+a:link, a:visited {
+  color: #296d8a;
+  text-decoration: none;
+  cursor: auto;
+}
+
+a:link:active, a:visited:active {
+  color: #5a8191;
+}
+
+
+.div-header {
+	background-color: #64e1ff; /***#5a8191 #8a6b4a ***/
+	height: 50px;
+	position: relative;
+	margin: 0;
+	padding: 10px;
+	
+} 
+
+.branding {
+	color: #296d8a; /*#8a6b4a*/
+	margin: 0;
+	padding: 0;
+	}
+
+.tagline {
+	color: #b58e64;
+	margin: 0;
+	padding: 0;
+	}
+	
+.div-content {
+	margin: 10px;
+	padding: 10px;
+	position: absolute;
+}
+
+/*----------------- Content------------- */
+.title {
+	color: #26764c;  /*** #8a6b4a ***/
+	}
+	
+.date {
+	color: #b95764;  /*** #79858a ***/
+	}
