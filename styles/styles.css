@@ -18,6 +18,7 @@ h1,h2,h3,h4,h5 {
 	
 summary {
 	margin:0;
+	
 	}
 
 hr {
@@ -48,14 +49,14 @@ a:link:active, a:visited:active {
 	color: #296d8a; /*#8a6b4a*/
 	margin: 0;
 	padding: 0;
-	}
+}
 
 .tagline {
 	color: #b58e64;
 	margin: 0;
 	padding: 0;
-	}
-	
+}
+
 .div-content {
 	margin: 10px;
 	padding: 10px;
@@ -63,10 +64,15 @@ a:link:active, a:visited:active {
 }
 
 /*----------------- Content------------- */
+.lead{
+  text-align: center;
+  color: #FBFBFB
+}
+
 .title {
 	color: #26764c;  /*** #8a6b4a ***/
-	}
+}
 	
 .date {
 	color: #b95764;  /*** #79858a ***/
-	}
+}
