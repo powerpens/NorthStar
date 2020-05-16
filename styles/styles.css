@@ -14,13 +14,13 @@ body {
 
 h1,h2,h3,h4,h5 {
 	margin: 0;
-	padding: 0
+	padding: 0;
 	}
 	
 summary{
 	margin:0;
-	font-style: bold
-	font-size: 13px
+	font-style: bold;
+	font-size: 20px;
 	}
 
 hr {
@@ -68,7 +68,7 @@ a:link:active, a:visited:active {
 /*----------------- Class ------------- */
 .lead{
   text-align: center;
-  color: #FBFBFB
+  color: #FBFBFB;
 }
 
 .title {
