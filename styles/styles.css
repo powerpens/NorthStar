@@ -76,3 +76,7 @@ a:link:active, a:visited:active {
 .date {
 	color: #b95764;  /*** #79858a ***/
 }
+
+.summary {
+  font-style: bold
+}
