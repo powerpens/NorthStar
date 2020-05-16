@@ -7,33 +7,41 @@ other colors: #8ae9e1
 /*** *** *** Tag *** *** ***/
 
 body {
-	font-family: 'Source Sans Pro', sans-serif;
-	background-color: white; /*** #95B8C7 ***/
-	margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: white;
+  /*** #95B8C7 ***/
+  margin: 0;
 }
 
-h1,h2,h3,h4,h5 {
-	margin: 0;
-	padding: 0;
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+  padding: 0;
 }
-	
+
 summary {
-	margin:0;
-	font-style: bold;
-	font-size: 20px;
+  margin: 0;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
 }
 
 hr {
-    margin: 0;
+  margin: 0;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
   color: #296d8a;
   text-decoration: none;
   cursor: auto;
 }
 
-a:link:active, a:visited:active {
+a:link:active,
+a:visited:active {
   color: #5a8191;
 }
 
@@ -71,16 +79,17 @@ a:link:active, a:visited:active {
   position: absolute;
 }
 
-.lead{
+.lead {
   text-align: center;
   color: #FBFBFB;
 }
 
 .title {
-	color: #26764c;  /*** #8a6b4a ***/
-}
-	
-.date {
-	color: #b95764;  /*** #79858a ***/
+  color: #26764c;
+  /*** #8a6b4a ***/
 }
 
+.date {
+  color: #b95764;
+  /*** #79858a ***/
+}
