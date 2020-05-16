@@ -10,18 +10,18 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	background-color: white; /*** #95B8C7 ***/
 	margin: 0;
-	}
+}
 
 h1,h2,h3,h4,h5 {
 	margin: 0;
 	padding: 0;
-	}
+}
 	
-summary{
+summary {
 	margin:0;
 	font-style: bold;
 	font-size: 20px;
-	}
+}
 
 hr {
     margin: 0;
@@ -38,34 +38,39 @@ a:link:active, a:visited:active {
 }
 
 
+
+
+/*----------------- Class ------------- */
+
 .div-header {
-	background-color: #64e1ff; /***#5a8191 #8a6b4a ***/
-	height: 50px;
-	position: relative;
-	margin: 0;
-	padding: 10px;
-	
-} 
+  background-color: #64e1ff;
+  /***#5a8191 #8a6b4a ***/
+  height: 50px;
+  position: relative;
+  margin: 0;
+  padding: 10px;
+
+}
 
 .branding {
-	color: #296d8a; /*#8a6b4a*/
-	margin: 0;
-	padding: 0;
+  color: #296d8a;
+  /*#8a6b4a*/
+  margin: 0;
+  padding: 0;
 }
 
 .tagline {
-	color: #b58e64;
-	margin: 0;
-	padding: 0;
+  color: #b58e64;
+  margin: 0;
+  padding: 0;
 }
 
 .div-content {
-	margin: 10px;
-	padding: 10px;
-	position: absolute;
+  margin: 10px;
+  padding: 10px;
+  position: absolute;
 }
 
-/*----------------- Class ------------- */
 .lead{
   text-align: center;
   color: #FBFBFB;
