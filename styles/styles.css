@@ -77,6 +77,6 @@ a:link:active, a:visited:active {
 	color: #b95764;  /*** #79858a ***/
 }
 
-.summary {
+summary {
   font-style: bold
 }
