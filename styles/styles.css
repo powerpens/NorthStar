@@ -88,3 +88,11 @@ a:visited:active {
   color: #b95764;
   /*** #79858a ***/
 }
+
+
+/*** Index Page Styles ***/
+.spiels{
+  font-weight: bold;
+  font-style: normal;
+  font-size: 16px;
+}
