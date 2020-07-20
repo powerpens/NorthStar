@@ -11,6 +11,11 @@
 </head>
 <!--- --- --- HEADER --- --- --->
 
+<style>
+  table, th, td {
+  border: 1px solid black;
+  }
+</style>
 <body>
   <div class="div-header">
     <h1 class="branding"><a href="../index.html">NorthStar™</a></h1>
@@ -30,19 +35,43 @@
     <!--- --- --- ARTICLE --- --- --->
     <h3>Opening</h3>
     <br>
+    
     <h4>Greetings</h4>
-    <p>Good day, ___. I hope you are well and safe. </p>
+    <table>
+      <td>::greet/::</td>
+      <td>Good day, ___. I hope you are well and safe.</td>
+    </table>
+    <br>
+    
     <h4>With Pre-chat</h4>
-    <p>I appreciate that you are inquiring about your ___. </p>
+    <table>
+      <td>::prechat/::</td>
+      <td>I appreciate that you are inquiring about your ___.</td>
+    </table>
+    <br>
     
     <h4>Without Pre-chat</h4>
-    
-    <p> I am still waiting for the pre-chat conversation to load. How can I help you with today, ___?</p>
+    <table>
+      <td>::noprechat/::</td>
+      <td>I am still waiting for the pre-chat conversation to load. How can I help you with today, ___?</td>
+    </table>
+    <br>
     
     <h4>Hold</h4>
-    <p>Could you please give me a few moments while I check this for you?</p>
+    <table>
+      <tr>
+        <td>::hold1a/::</td>
+        <td>Could you please give me a few moments while I check this for you?</td>
+      </tr>
+      <tr>
+        <td>::hold1b/::</td>
+        <td>Would you mind a few moments on hold while I work on this for you?</td>
+      </tr>
+      
+    </table>
     
-    <p>Would you mind a few moments on hold while I work on this for you?</p>
+    
+    <p></p>
     
     <p>Thanks for your patience. I appreciate your cooperation on this.</p>
     
@@ -109,10 +138,25 @@
     <hr>
     <h3>Closing</h3>
     
-    <p><b>::notenum::</b>I just would like to confirm if you've taken note of the number?</p>
+    <table>
+      <td>::notenum/::</td>
+      <td>I just would like to confirm if you've taken note of the number?</td>
+    </table>
     
+    <br>
+    <hr>
     
-    update
+    <h3>Common Hotkeys</h3>
+    <table>
+      <tr>
+        <th>Hotkey</th>
+        <th>Spiel</th>
+      </tr>
+      <tr>
+        <td>::amex/::</td>
+        <td>American Express</td>
+      </tr>
+    </table>
     <!--- --- --- FOOTER --- --- --->
   </div>
 </body>
